@@ -20,6 +20,7 @@
 		6A215D0E16109D6500EFE485 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A215CEF16109D6500EFE485 /* Foundation.framework */; };
 		6A215D1616109D6500EFE485 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A215D1416109D6500EFE485 /* InfoPlist.strings */; };
 		6A215D1916109D6500EFE485 /* TratarRotacaoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A215D1816109D6500EFE485 /* TratarRotacaoTests.m */; };
+		6A215D2316109DE800EFE485 /* Angelina.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A215D2216109DE800EFE485 /* Angelina.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		6A215D1516109D6500EFE485 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6A215D1716109D6500EFE485 /* TratarRotacaoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TratarRotacaoTests.h; sourceTree = "<group>"; };
 		6A215D1816109D6500EFE485 /* TratarRotacaoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TratarRotacaoTests.m; sourceTree = "<group>"; };
+		6A215D2216109DE800EFE485 /* Angelina.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Angelina.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				6A215CFC16109D6500EFE485 /* PrincipalAppDelegate.h */,
 				6A215CFD16109D6500EFE485 /* PrincipalAppDelegate.m */,
 				6A215CFF16109D6500EFE485 /* MainStoryboard.storyboard */,
+				6A215D2216109DE800EFE485 /* Angelina.jpg */,
 				6A215D0216109D6500EFE485 /* PrincipalViewController.h */,
 				6A215D0316109D6500EFE485 /* PrincipalViewController.m */,
 				6A215CF416109D6500EFE485 /* Supporting Files */,
@@ -225,6 +228,7 @@
 			files = (
 				6A215CF816109D6500EFE485 /* InfoPlist.strings in Resources */,
 				6A215D0116109D6500EFE485 /* MainStoryboard.storyboard in Resources */,
+				6A215D2316109DE800EFE485 /* Angelina.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

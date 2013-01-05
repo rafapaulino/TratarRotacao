@@ -10,4 +10,13 @@
 
 @interface PrincipalViewController : UIViewController
 
+@property (nonatomic, weak) IBOutlet UIButton *botao1;
+@property (nonatomic, weak) IBOutlet UIButton *botao2;
+@property (nonatomic, weak) IBOutlet UIButton *botao3;
+
+@property (nonatomic, weak) IBOutlet UIImageView *imagem;
+
+
+@property (nonatomic, strong) IBOutletCollection(UIButton) NSArray *meusBotoes;
+
 @end
